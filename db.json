@@ -1,0 +1,14 @@
+{
+  "releases": 
+[
+	{
+							"title": "Alice Waters Pan1",
+	 						"owner": "via Alice Waters2",
+							"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+							"pricePerItem": 350.0,
+							"quantity": 1,
+							"assetURL": "https://via.placeholder.com/576x510&text=AliceWatersPan"
+	}
+
+	]
+}
