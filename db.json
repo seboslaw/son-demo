@@ -27,7 +27,7 @@
 	 "publication" : {
 		 "published" : true,
 		 "publicationStart" : "2018-06-20T13:00:00+00:00",
-		 "publicationEnd" : "2019-06-20T14:00:00+00:00",
+		 "publicationEnd" : "2019-06-20T14:00:00+00:00"
 	 }
  },
  {
@@ -44,7 +44,7 @@
 	 "publication" : {
 	 "published" : true,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
-	 "publicationEnd" : "2019-12-20T14:00:00+00:00",
+	 "publicationEnd" : "2019-12-20T14:00:00+00:00"
 	 }
  },
  {
@@ -61,7 +61,7 @@
 	 "publication" : {
 	 "published" : true,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
-	 "publicationEnd" : "2019-12-20T14:00:00+00:00",
+	 "publicationEnd" : "2019-12-20T14:00:00+00:00"
 	 }
  },
  {
@@ -78,7 +78,7 @@
 	 "publication" : {
 	 "published" : true,
 	 "publicationStart" : "2013-06-20T13:00:00+00:00",
-	 "publicationEnd" : "2014-12-20T14:00:00+00:00",
+	 "publicationEnd" : "2014-12-20T14:00:00+00:00"
 	 }
  },
  {
@@ -95,7 +95,7 @@
 	 "publication" : {
 	 "published" : false,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
-	 "publicationEnd" : "2018-12-20T14:00:00+00:00",
+	 "publicationEnd" : "2018-12-20T14:00:00+00:00"
 	 }
  }
  ],
