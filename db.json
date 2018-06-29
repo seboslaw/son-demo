@@ -1,19 +1,31 @@
 {
   "releases": 
-[
+	[
 	{
+	 "id": 1,
 							"title": "Alice Waters Pan1",
 	 						"owner": "via Alice Waters2",
 							"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 							"pricePerItem": 350.0,
 							"quantity": 1,
-							"assetURL": "https://via.placeholder.com/576x510&text=AliceWatersPan"
+	 						"assets": [
+												 {"internalURL": "https://assets.vogue.com/photos/5abd16b79d2e442742e10bd0/master/pass/02-chef-alice-waters-new-egg-spoon.jpg"},
+												 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+												 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+												 ],
+	 						"publication" : {
+								 "published" : true,
+								 "publicationStart" : "2018-06-20T13:00:00+00:00",
+								 "publicationEnd" : "2018-06-20T14:00:00+00:00",
+							 }
 	}
 
-	],
+	]
+,
   "my_releases":
   [
  {
+ "id": 1,
 	 "title": "Alice Waters Pan1",
 	 "owner": "via Alice Waters1",
 	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -31,6 +43,7 @@
 	 }
  },
  {
+ "id": 2,
 	 "title": "Alice Waters Pan2",
 	 "owner": "via Alice Waters2",
 	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -48,6 +61,7 @@
 	 }
  },
  {
+ "id": 3,
 	 "title": "Alice Waters Pan3",
 	 "owner": "via Alice Waters3",
 	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -65,6 +79,7 @@
 	 }
  },
  {
+ "id": 4,
 	 "title": "A past product",
 	 "owner": "via Past product dealer",
 	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -82,6 +97,7 @@
 	 }
  },
  {
+ "id": 5,
 	 "title": "A draft product",
 	 "owner": "draft owner",
 	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -98,23 +114,32 @@
 	 "publicationEnd" : "2018-12-20T14:00:00+00:00"
 	 }
  }
- ],
+ 
+ 
+ 
+ ]
+,
 "timeslots":
+
 
 [
 	 {
+ "id":1,
 	 "start": "2018-06-20T13:00:00+00:00",
 	 "end": "2018-06-20T14:00:00+00:00"
 	 },
 	 {
+ "id":2,
 	 "start": "2018-06-20T15:00:00+00:00",
 	 "end": "2018-06-20T16:00:00+00:00"
 	 },
 	 {
+ "id":3,
 	 "start": "2018-06-20T16:00:00+00:00",
 	 "end": "2018-06-20T17:00:00+00:00"
 	 }
 
  ]
+
 
 }
