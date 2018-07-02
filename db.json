@@ -17,7 +17,8 @@
 								 "published" : true,
 								 "publicationStart" : "2018-06-20T13:00:00+00:00",
 								 "publicationEnd" : "2018-06-20T14:00:00+00:00"
-							 }
+							 },
+							"transactionType":"First Come"
 	}
 
 	]
@@ -40,7 +41,8 @@
 		 "published" : true,
 		 "publicationStart" : "2018-06-20T13:00:00+00:00",
 		 "publicationEnd" : "2019-06-20T14:00:00+00:00"
-	 }
+	 },
+	"transactionType":"First Come"
  },
  {
  "id": 2,
@@ -58,7 +60,8 @@
 	 "published" : true,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
 	 "publicationEnd" : "2019-12-20T14:00:00+00:00"
-	 }
+	 },
+	"transactionType":"Random"
  },
  {
  "id": 3,
@@ -76,7 +79,8 @@
 	 "published" : true,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
 	 "publicationEnd" : "2019-12-20T14:00:00+00:00"
-	 }
+	 },
+	"transactionType":"First Come"
  },
  {
  "id": 4,
@@ -94,7 +98,8 @@
 	 "published" : true,
 	 "publicationStart" : "2013-06-20T13:00:00+00:00",
 	 "publicationEnd" : "2014-12-20T14:00:00+00:00"
-	 }
+	 },
+	"transactionType":"Auction"
  },
  {
  "id": 5,
@@ -112,7 +117,8 @@
 	 "published" : false,
 	 "publicationStart" : "2018-06-20T13:00:00+00:00",
 	 "publicationEnd" : "2018-12-20T14:00:00+00:00"
-	 }
+	 },
+	"transactionType":"First Come"
  }
  
  
