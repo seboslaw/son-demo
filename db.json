@@ -1,163 +1,224 @@
 {
   "releases": 
-	[
+	 [
 	{
-	 "id": 1,
-							"title": "Alice Waters Pan1",
-	 						"owner": "via Alice Waters2",
-							"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-							"pricePerItem": 350.0,
-							"quantity": 1,
-	 						"assets": [
-												 {"internalURL": "https://assets.vogue.com/photos/5abd16b79d2e442742e10bd0/master/pass/02-chef-alice-waters-new-egg-spoon.jpg"},
-												 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-												 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
-												 ],
-	 						"publication" : {
-								 "published" : true,
-								 "timeslot" : {
-									 "start" : "2018-06-20T13:00:00+00:00",
-									 "end" : "2018-06-20T14:00:00+00:00"								 	
-								 }
-							 },
-							"transactionType":"First Come"
+	"id": 1,
+	"title": "Alice Waters Pan1",
+	"owner": "via Alice Waters2",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 350.0,
+	"quantity": 1,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://assets.vogue.com/photos/5abd16b79d2e442742e10bd0/master/pass/02-chef-alice-waters-new-egg-spoon.jpg"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+						 ],
+	"publication" : {
+	"published" : true,
+	"timeslot" : {
+		"id":1,
+	"start" : "2018-09-20T13:00:00+00:00",
+	"end" : "2018-09-20T14:00:00+00:00"
+	}
+	},
+	"transactionType":"First Come"
+	},
+	{
+		"id": 2,
+		"title": "Alice Waters Pan2",
+		"owner": "via Alice Waters2",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"pricePerItem": 350.0,
+		"quantity": 1,
+		"quantityVisible" : true,
+		"assets": [
+			{"internalURL": "https://assets.vogue.com/photos/5abd16b79d2e442742e10bd0/master/pass/02-chef-alice-waters-new-egg-spoon.jpg"},
+			{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+			{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+		],
+		"publication" : {
+			"published" : true,
+			"timeslot" : {
+				"id":2,
+				"start" : "2018-12-20T13:00:00+00:00",
+				"end" : "2018-12-20T14:00:00+00:00"
+			}
+		},
+		"transactionType":"First Come"
+	},
+	{
+		"id": 3,
+		"title": "Alice Waters Pan3",
+		"owner": "via Alice Waters4",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"pricePerItem": 350.0,
+		"quantity": 1,
+		"quantityVisible" : true,
+		"assets": [
+			{"internalURL": "https://assets.vogue.com/photos/5abd16b79d2e442742e10bd0/master/pass/02-chef-alice-waters-new-egg-spoon.jpg"},
+			{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+			{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+		],
+		"publication" : {
+			"published" : true,
+			"timeslot" : {
+				"id":3,
+				"start" : "2018-12-24T13:00:00+00:00",
+				"end" : "2018-12-24T14:00:00+00:00"
+			}
+		},
+		"transactionType":"First Come"
 	}
 
+	
 	]
+
 ,
   "my_releases":
-  [
- {
- "id": 1,
-	 "title": "Alice Waters Pan1",
-	 "owner": "via Alice Waters1",
-	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	 "pricePerItem": 350.0,
-	 "quantity": 1,
-	 "assets": [
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan1"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
-							],
-	 "publication" : {
-		 "published" : true,
-		 "timeslot": {
-			 "start" : "2018-06-20T13:00:00+00:00",
-			 "end" : "2019-06-20T14:00:00+00:00"		 	
-		 }
-	 },
+   [
+	{
+	"id": 1,
+	"title": "Alice Waters Pan1",
+	"owner": "via Alice Waters1",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 350.0,
+	"quantity": 1,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan1"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+						 ],
+	"publication" : {
+	"published" : true,
+	"timeslot": {
+		"id":1,
+		"start": "2018-10-20T13:00:00+00:00",
+		"end": "2018-10-20T14:00:00+00:00"
+	}
+	},
 	"transactionType":"First Come"
- },
- {
- "id": 2,
-	 "title": "Alice Waters Pan2",
-	 "owner": "via Alice Waters2",
-	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	 "pricePerItem": 470.10,
-	 "quantity": 10,
-	 "assets": [
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan1"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
-							],
-	 "publication" : {
-	 "published" : true,
-	 "timeslot": {
-		 "start" : "2018-06-20T13:00:00+00:00",
-		 "end" : "2019-12-20T14:00:00+00:00"	 	
-	 }
-	 },
+	},
+	{
+	"id": 2,
+	"title": "Alice Waters Pan2",
+	"owner": "via Alice Waters2",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 470.10,
+	"quantity": 10,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan1"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+						 ],
+	"publication" : {
+	"published" : true,
+	"timeslot": {
+		"id":2,
+		"start": "2018-10-20T15:00:00+00:00",
+		"end": "2018-10-20T16:00:00+00:00"
+	}
+	},
 	"transactionType":"Random"
- },
- {
- "id": 3,
-	 "title": "Alice Waters Pan3",
-	 "owner": "via Alice Waters3",
-	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	 "pricePerItem": 430.10,
-	 "quantity": 20,
-	 "assets": [
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
-							],
-	 "publication" : {
-	 "published" : true,
-	 	 "timeslot": {
-			 "start" : "2018-06-20T13:00:00+00:00",
-			 "end" : "2019-12-20T14:00:00+00:00"
-		}
-	 },
+	},
+	{
+	"id": 3,
+	"title": "Alice Waters Pan3",
+	"owner": "via Alice Waters3",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 430.10,
+	"quantity": 20,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=AliceWatersPan3"}
+						 ],
+	"publication" : {
+	"published" : true,
+	"timeslot": {
+		"id":3,
+		"start": "2018-10-23T16:00:00+00:00",
+		"end": "2018-10-23T17:00:00+00:00"
+	}
+	},
 	"transactionType":"First Come"
- },
- {
- "id": 4,
-	 "title": "A past product",
-	 "owner": "via Past product dealer",
-	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	 "pricePerItem": 1470.0,
-	 "quantity": 140,
-	 "assets": [
-							{"internalURL": "https://via.placeholder.com/576x510&text=PastProduct1"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=PastProduct2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=PastProduct3"}
-							],
-	 "publication" : {
-	 "published" : true,
-	 "timeslot" : {
-		 "start" : "2013-06-20T13:00:00+00:00",
-		 "end" : "2014-12-20T14:00:00+00:00"	 	
-	 }
-	 },
+	},
+	{
+	"id": 4,
+	"title": "A past product",
+	"owner": "via Past product dealer",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 1470.0,
+	"quantity": 140,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://via.placeholder.com/576x510&text=PastProduct1"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=PastProduct2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=PastProduct3"}
+						 ],
+	"publication" : {
+	"published" : true,
+	"timeslot" : {
+		"id":1,
+		"start": "2018-11-20T13:00:00+00:00",
+		"end": "2018-11-20T14:00:00+00:00"
+	}
+	},
 	"transactionType":"Auction"
- },
- {
- "id": 5,
-	 "title": "A draft product",
-	 "owner": "draft owner",
-	 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-	 "pricePerItem": 4870.0,
-	 "quantity": 100,
-	 "assets": [
-							{"internalURL": "https://via.placeholder.com/576x510&text=Draft1"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=Draft2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
-							{"internalURL": "https://via.placeholder.com/576x510&text=Draft3"}
-							],
-	 "publication" : {
-	 "published" : false,
-	 "timeslot" : {
-		 "start" : "2018-06-20T13:00:00+00:00",
-		 "end" : "2018-12-20T14:00:00+00:00"	 	
-	 }
-	 },
+	},
+	{
+	"id": 5,
+	"title": "A draft product",
+	"owner": "draft owner",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+	"pricePerItem": 4870.0,
+	"quantity": 100,
+	"quantityVisible" : true,
+	"assets": [
+						 {"internalURL": "https://via.placeholder.com/576x510&text=Draft1"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=Draft2", "internalVideoURL":"https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"},
+						 {"internalURL": "https://via.placeholder.com/576x510&text=Draft3"}
+						 ],
+	"publication" : {
+	"published" : false,
+	"timeslot" : {
+		"id":2,
+		"start": "2018-09-20T15:00:00+00:00",
+		"end": "2018-09-20T16:00:00+00:00"
+	}
+	},
 	"transactionType":"First Come"
- }
- 
- 
- 
- ]
+	}
+	
+	
+	
+	]
+
 ,
 "timeslots":
-
 
 [
 	 {
  "id":1,
-	 "start": "2018-06-20T13:00:00+00:00",
-	 "end": "2018-06-20T14:00:00+00:00"
+	 "start": "2018-10-20T13:00:00+00:00",
+	 "end": "2018-10-20T14:00:00+00:00"
 	 },
 	 {
  "id":2,
-	 "start": "2018-06-20T15:00:00+00:00",
-	 "end": "2018-06-20T16:00:00+00:00"
+	 "start": "2018-10-20T15:00:00+00:00",
+	 "end": "2018-10-20T16:00:00+00:00"
 	 },
 	 {
  "id":3,
-	 "start": "2018-06-20T16:00:00+00:00",
-	 "end": "2018-06-20T17:00:00+00:00"
+	 "start": "2018-10-20T16:00:00+00:00",
+	 "end": "2018-10-20T17:00:00+00:00"
 	 }
 
  ]
+
 
 
 }
